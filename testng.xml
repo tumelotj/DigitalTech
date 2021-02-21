@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AbsaTest" parallel="classes" thread-count="1">
+    <test name="Regression" allow-return-values="true">
+        <classes>
+            <class name="DogAPI"/>
+            <!--class name="AddUser"/-->
+        </classes>
+    </test>
+</suite>
