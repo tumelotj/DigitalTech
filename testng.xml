@@ -3,7 +3,7 @@
     <test name="Regression" allow-return-values="true">
         <classes>
             <class name="DogAPI"/>
-            <!--class name="AddUser"/-->
+            <class name="AddUser"/>
         </classes>
     </test>
 </suite>
